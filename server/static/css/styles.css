@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+header {
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: bisque;
+    min-height: 100px;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header-name {
+    text-align: center;
+    align-self: center;
+    font-size: 40px;
+    font-stretch: expanded;
+    font-weight: 800;
+    padding: 0px;
+    margin: 0;
+}
+
+.sub-header {
+    display: block;
+}
+.language-switch {
+    float: right;
+    border: 2px solid #ccc;
+    padding: 0px;
+    border-radius: 5px;
+}
+
+.language-switch input[type="radio"] {
+    display: none;
+}
+
+.language-switch label {
+    cursor: pointer;
+    padding: 0px 7px;
+}
+
+.language-switch #ch-label {
+    border-right-style: double;
+}
+
+.language-switch label:hover {
+    background-color: grey;
+    opacity: 20%;
+}
+
+.language-switcher input[type="radio"]:checked + label {
+    background-color: #3498db;
+    color: #fff;
+}
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    margin-block-start: 0;
+}
+
+h3 {
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.toc {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    max-width: 80%;
+    margin: auto;
+}
+
+.horizontal {
+    display: inline-block;
+}
+
+
+.recipe {
+    align-content: center;
+    /* text-align: center; */
+    max-width: 600px;
+    margin: auto;
+    background-color: rgb(255, 247, 233);
+    border-right-color:  rgb(221, 203, 172);
+    border-left-color:  rgb(221, 203, 172);
+    border-right-style: groove;
+    border-left-style: groove;
+    overflow: auto;
+}
+
+.ingredients-li {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.ingredient-row {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    width: 50%;
+    justify-content: space-between;
+}
+
+/* .ingredient-row > div {
+    text-align: left;
+} */
+
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+}

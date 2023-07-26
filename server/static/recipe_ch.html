@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="/static/css/styles.css">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>{{ .recipe.Name.Ch}} - 虹容欣食譜集</title>
+</head>
+<header>
+  <div class="header-name">虹容欣食譜集</div>
+  <div class="sub-header">
+  <div class="language-switch">
+    <label class="language-label" id="ch-label">
+      <input class="language-selector" type="radio" name="language-switch" checked>
+      中
+    </label>
+    <label class="language-label" onclick="handleLanguageChange(this);">
+      <input class="language-selector" type="radio" name="language-switch">
+      EN
+    </label>
+    <script>
+      function handleLanguageChange(languageRadio) {
+        fetch('/language/en', { method: 'POST' })
+          .then(() => window.location.reload());
+      }
+    </script>
+  </div>
+</div>
+</header>
+    <body>
+        <div class="recipe">
+          <h2>{{ .recipe.Name.Ch }}食譜</h2>
+          <div class="toc">
+              <div class="horizontal"><a href="#ingredients-section">食材</a></div>
+              <div class="horizontal"><a href="#steps-section">做法</a></div>
+          </div>
+          <div class="section" id="ingredients-section">
+            <h3>食材</h2>
+            <div class="ingredients-li">       
+              {{ range .recipe.Ingredients }}
+              <li class="ingredient-row">
+                  <div>
+                    {{ .Name.Ch }}
+                  </div>
+                  <div>
+                    {{ if gt .Measurement 0.0 }} {{ .Measurement }} {{ .Unit.Ch }} {{ else }} 適量 {{ end }}
+                  </div>
+              </li>
+              {{ end }}
+            </div>
+          </div> 
+          
+          <div class="section" id="steps-section">
+            <h3>做法</h3>
+            <ul>
+              {{ range .recipe.Steps }}
+              <li> {{ .Ch }} </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+        
+    <div class="footer">
+      <p>©️ 2023 Sunnie So. All Rights Reserved.</p>
+    </div>
+    </body>
+</html>

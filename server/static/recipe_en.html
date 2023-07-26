@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="/static/css/styles.css">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>{{ .recipe.Name.En}} - 虹容欣食譜集</title>
+</head>
+<header>
+  <nav>
+    <div class="header-name">虹容欣食譜集</div>
+    <div class="language-switch">
+      <label class="language-label" id="ch-label" onclick="handleLanguageChange(this);">
+        <input class="language-selector" type="radio" name="language-switch">
+        中
+      </label>
+      <label class="language-label">
+        <input class="language-selector" type="radio" name="language-switch" checked>
+        EN
+      </label>
+      
+      <script>
+        function handleLanguageChange(languageRadio) {
+          fetch('/language/ch/', { method: 'POST' })
+            .then(() => window.location.reload());
+        }
+      </script>
+    </div>
+  </nav>
+</header>
+    <body>
+        <div class="recipe">
+          <h2>{{ .recipe.Name.En}} Recipe</h2>
+          <div class="toc">
+            <div class="horizontal"><a href="#ingredients-section">Ingredients</a></div>
+            <div class="horizontal"><a href="#steps-section">Steps</a></div>
+        </div>
+          <div class="section" id="ingredients-section">
+            <h3>Ingredients</h2>
+            <div class="ingredients-li">       
+              {{ range .recipe.Ingredients }}
+              <li class="ingredient-row">
+                  <div>
+                    {{ .Name.En }}
+                  </div>
+                  <div>
+                    {{ if gt .Measurement 0.0 }} {{ .Measurement }} {{ .Unit.En }} {{ else }} As desire {{ end }}
+                  </div>
+              </li>
+              {{ end }}
+            </div>
+          </div> 
+          
+          <div class="section" id="steps-section">
+            <h3>Steps</h3>
+            <ul>
+              {{ range .recipe.Steps }}
+              <li> {{ .En }} </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+        
+    <div class="footer">
+      <p>©️ 2023 Sunnie So. All Rights Reserved.</p>
+    </div>
+    </body>
+</html>
