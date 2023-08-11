@@ -18,19 +18,20 @@
 </header>
 
 <body>
-  歡迎蒞臨虹容欣家鄉料理
-  So Food Collection
-  <h1>Recipe 食譜</h1>
-  <div class="li">
-    {{ range .list }}
-      <div class="li-row">
-        <div class="li-row-sub">
-          <a href="./recipes/{{ .En }}" target="_blank" rel="noreferrer noopener">
-            {{ .En }} {{ .Ch }}
-          </a>
+  <div class="center">
+    歡迎蒞臨虹容欣家鄉料理 <br>
+    So Food Collection <br>
+    🍚。🥟。🍜
+    <!-- <h2>Recipe 食譜</h2> -->
+    <div class="items-display">
+      {{ range .list }}
+      <a href="./recipes/{{ .En }}" target="_blank" rel="noreferrer noopener">
+        <div class="item-box">
+          {{ .En }} <br> {{ .Ch }}
         </div>
-      </div>
-    {{ end }}
+      </a>
+      {{ end }}
+    </div>
   </div>
 
   <div class="footer">
