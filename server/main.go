@@ -6,23 +6,31 @@ import (
 	"fmt"
 	"net/http"
 	"os"
+	"time"
 
 	"github.com/gin-gonic/gin"
 )
 
 func main() {
+	currentTime := time.Now().Format("2006-01-02")
 	router := gin.Default()
-	// // Serve frontend static files
-	// router.Use(static.Serve("/", static.LocalFile("./frontend", true)))
-	router.Static("/static", "./static/")
+	username := os.Getenv("APP_USERNAME")
+	password := os.Getenv("APP_PASSWORD")
+
+	authorized := router.Group("/", gin.BasicAuth(gin.Accounts{
+		username: password,
+	}))
+
+	authorized.Static("/static", "./static/")
 	router.LoadHTMLGlob("static/*.html")
-	router.GET("home", func(ctx *gin.Context) {
+	authorized.GET("home", func(ctx *gin.Context) {
 		recipeList, _ := recipe.ListAllRecipes()
 		ctx.HTML(
 			http.StatusOK,
 			"index.html",
 			gin.H{
-				"list": recipeList,
+				"list":            recipeList,
+				"lastUpdatedTime": currentTime,
 			})
 	})
 
@@ -40,7 +48,7 @@ func main() {
 		ctx.JSON(http.StatusAccepted, gin.H{})
 	})
 
-	router.GET("recipes/:item", func(ctx *gin.Context) {
+	authorized.GET("recipes/:item", func(ctx *gin.Context) {
 		item := ctx.Param("item")
 		// Check if the "lang" cookie exists
 		langCookie, err := ctx.Request.Cookie("lang")
@@ -48,8 +56,8 @@ func main() {
 		if err == nil {
 			lang = langCookie.Value
 		} else {
-			// Default to English if no language cookie is set
-			lang = "en"
+			// Default to Chinese if no language cookie is set
+			lang = "ch"
 		}
 		recipe, _ := recipe.GetRecipe(item)
 		fmt.Printf("requested '%s', obtained '%s', lang=%s\n", item, recipe.Name.Ch, lang)
@@ -57,17 +65,17 @@ func main() {
 			http.StatusOK,
 			"recipe_"+lang+".html",
 			gin.H{
-				"recipe": recipe,
+				"recipe":          recipe,
+				"lastUpdatedTime": currentTime,
 			})
 	})
 
 	router.GET("ping", func(ctx *gin.Context) {
 		ctx.String(http.StatusOK, "%s", "Welcome to CAS!")
 	})
-	// router.GET("api/menu", getMenu)
 
-	router.GET("api/recipes/:item", getRecipeByItem)
-	router.GET("api/recipes", getRecipeByItem)
+	// router.GET("api/recipes/:item", getRecipeByItem)
+	// router.GET("api/recipes", getRecipeByItem)
 
 	portNumber := os.Getenv("APP_PORT")
 	fmt.Printf("Starting the app on port %s", portNumber)
