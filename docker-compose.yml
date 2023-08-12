@@ -1,0 +1,13 @@
+version: '3.0'
+services:
+  casrestaurant:
+    build: ./server
+    # image: casrestaurant_app:latest
+    ports:
+      - "8089:8081"
+    env_file:
+      - config.env
+    volumes:
+      - go-modules:/go/pkg/mod
+volumes:
+  go-modules:
