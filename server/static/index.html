@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh">
 
 <link rel="stylesheet" href="/static/css/styles.css">
 <head>
@@ -25,10 +25,12 @@
   <meta name="msapplication-TileImage" content="/static/images/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 </head>
-<header>
+<header id="header">
   <nav>
-    <div class="header-name">虹容欣食譜集</div>
-    <div class="sub-header">So Food Collection</div>
+    <a id="header-title-link" href="/home">
+      <div id="header-name">虹容欣食譜集</div>
+      <div id="sub-header">So Food Collection</div>
+    </a>
     <div class="lang-selector">
 
     </div>
@@ -36,12 +38,9 @@
 </header>
 
 <body>
-  <!-- <nav>
-    <div></div>
-  </nav> -->
   <div class="center">
     歡迎蒞臨虹容欣家鄉料理 <br>
-    So Food Collection <br>
+    Welcome to the So Food Collection <br>
     🍚。🥟。🍜
     <div class="items-display">
       {{ range .list }}

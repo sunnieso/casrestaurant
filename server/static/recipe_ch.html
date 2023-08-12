@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh">
 
 <link rel="stylesheet" href="/static/css/styles.css">
 <head>
@@ -25,11 +25,12 @@
   <meta name="msapplication-TileImage" content="/static/images/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 </head>
-<header>
+<header id="header">
   <nav>
-    <div class="header-name">虹容欣食譜集</div>
-    <div class="sub-header">So Food Collection</div>
-    <div class="lang-row"></div>
+    <a id="header-title-link" href="/home">
+      <div id="header-name">虹容欣食譜集</div>
+      <div id="sub-header">So Food Collection</div>
+    </a>
     <div class="language-switch">
       <label class="language-label" id="ch-label">
         <input class="language-selector" type="radio" name="language-switch" checked>
@@ -99,5 +100,49 @@
       <p>©️ 2023 Sunnie So. All Rights Reserved.</p>
       <p class="small-footer">Last Updated: {{ .lastUpdatedTime }}</p>
     </div>
+    <script>
+      
+    // Scrolls down 90px from the top of
+    // the document, to resize the navlist
+    // padding and the title font-size
+    window.onscroll = function() {
+        scrollFunction()
+    };
+          
+    function scrollFunction() {
+      if (document.body.scrollTop > 90 ||
+          document.documentElement.scrollTop > 90)
+      {
+        // title size
+        document.getElementById("header")
+                .style.minHeight = "50px";    
+        document.getElementById("header-name")
+                .style.fontSize = "20px";
+        document.getElementById("sub-header")
+                .style.fontSize = "10px";
+        document.getElementById("header-name")
+                .style.fontWeight = "500";
+      }
+      else {
+        // original layout
+        document.getElementById("header")
+                .style.display = "flex";
+        document.getElementById("header")
+                .style.flexDirection = "column";
+        document.getElementById("header")
+                .style.justifyContent = "space-between";
+        
+        // original size
+        document.getElementById("header")
+                .style.minHeight = "100px";
+        document.getElementById("header-name")
+                .style.fontSize = "40px";
+        document.getElementById("sub-header")
+                .style.fontSize = "20px";
+        document.getElementById("header-name")
+                .style.fontWeight = "800";
+      }
+    }
+    </script>
     </body>
 </html>
