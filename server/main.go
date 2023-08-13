@@ -1,7 +1,6 @@
 package main
 
 import (
-	"casrestaurant/menu"
 	"casrestaurant/recipe"
 	"fmt"
 	"net/http"
@@ -21,7 +20,8 @@ func main() {
 		username: password,
 	}))
 
-	authorized.Static("/static", "./static/")
+	// authorized.Static("/static", "./static/")
+	router.Static("/static/", "./static/")
 	router.LoadHTMLGlob("static/*.html")
 	authorized.GET("home", func(ctx *gin.Context) {
 		recipeList, _ := recipe.ListAllRecipes()
@@ -80,21 +80,6 @@ func main() {
 	portNumber := os.Getenv("APP_PORT")
 	fmt.Printf("Starting the app on port %s", portNumber)
 	router.Run(fmt.Sprintf(":%s", portNumber))
-}
-
-func getMenu(ctx *gin.Context) {
-	fmt.Println("Getting menu of CAS Restaurant:")
-	menuList, err := menu.GetMenu()
-	if err != nil {
-		fmt.Println("Error while getting menu ", err)
-		return
-	}
-	menuStr := ""
-	for _, item := range menuList.List {
-		menuStr += fmt.Sprintf("%s | %s -- $%v\n", item.Name, item.ChineseName, item.UnitPrice)
-	}
-
-	ctx.String(http.StatusOK, "%s", menuStr)
 }
 
 func listRecipes(ctx *gin.Context) {
