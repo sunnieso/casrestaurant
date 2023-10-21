@@ -1,0 +1,1924 @@
+[
+    {
+        "name": {
+            "en": "Chive Box",
+            "ch": "韭菜盒"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "chive",
+                    "ch": "韭菜"
+                },
+                "group": "filling",
+                "measurement": 1,
+                "unit": {
+                    "en": "bunch",
+                    "ch": "把"
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shrimp skin",
+                    "ch": "蝦皮"
+                },
+                "group": "filling",
+                "measurement": 1,
+                "unit": {
+                    "en": "handful",
+                    "ch": "搓"
+                }
+            },
+            {
+                "name": {
+                    "en": "tofu",
+                    "ch": "豆腐"
+                },
+                "group": "filling",
+                "measurement": 0.33,
+                "unit": {
+                    "en": "box",
+                    "ch": "盒"
+                }
+            },
+            {
+                "name": {
+                    "en": "glass noodles",
+                    "ch": "粉絲"
+                },
+                "group": "filling",
+                "measurement": 2,
+                "unit": {
+                    "en": "bunch",
+                    "ch": "把"
+                }
+            },
+            {
+                "name": {
+                    "en": "egg",
+                    "ch": "蛋"
+                },
+                "group": "filling",
+                "measurement": 2.5,
+                "unit": {
+                    "en": "eggs",
+                    "ch": "顆"
+                }
+            },
+            {
+                "name": {
+                    "en": "vegtable oil",
+                    "ch": "油"
+                },
+                "group": "filling",
+                "measurement": 1,
+                "unit": {
+                    "en": "(a lot)",
+                    "ch": "很多"
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "group": "filling",
+                "measurement": -1,
+                "unit": {
+                    "en": "just a little",
+                    "ch": "一點點"
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "water",
+                    "ch": "水"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Let the glass noodles sink in cool water for about 30 minutes.",
+                "ch": "粉絲提早用冷水泡約三十分鐘。"
+            },
+            {
+                "en": "Cut out any bad parts of the chive and wash it, especially the tip of the chive, which usually got some dust in it. Let it dry up.",
+                "ch": "韭菜先剪掉爛葉子，洗一洗，特別是韭菜頭最容易髒。洗好擺著讓它晾乾一下。"
+            },
+            {
+                "en": "Soak and wash the dried shrimp. Sometimes there could be tiny shells in the midst. Dry up the shrimp.",
+                "ch": "蝦皮先用清水沖一沖，因為裡面有時候會有小貝殼之類的東西。洗淨後把水擠乾。"
+            },
+            {
+                "en": "Heat the wok and add oil to it. Quickly fry the dried shrimp until it's fragrant and put it into a bowl for mixing filling later. Be generous with the oil when you stir fry, as you will use the same wok for other ingredients later.",
+                "ch": "炒鍋開火放很多油，放入蝦皮爆鍋。炒出香味後盛出來放入要準備餡的盆子。這個油鍋之後還會炒其他料，別擔心油太多。"
+            },
+            {
+                "en": "In the wok, crack and scramble fry the eggs until it is roughly 70% cooked. Transfer the eggs to the same filling bowl.",
+                "ch": "將蛋放入鍋子用鏟子打爛，炒至半熟即可盛出，放入餡盆。"
+            },
+            {
+                "en": "On a cutting board, smash or cube the tofu. Then, stir fry it in the same wok until golden. Transfer to the bowl.",
+                "ch": "將豆腐弄菜刀打爛或弄爛，在放鍋中煎炒至微黃。盛起來放入餡盆。"
+            },
+            {
+                "en": "Take out the glass noodles and cut them in short segments. Transfer to the bowl. Mix the bowl.",
+                "ch": "粉絲從水取出，切段，放入餡盆。"
+            },
+            {
+                "en": "Dice the chives and stir them into the filling bowl.",
+                "ch": "韭菜切切放進餡盆。"
+            },
+            {
+                "en": "Add some salt for flavors. Filling part is done!",
+                "ch": "拌一拌，加點鹽調味。餡的部分完成!"
+            },
+            {
+                "en": "Wrapper: use warm water for the dough. The radio of flour and water is roughly 1 to 0.4.",
+                "ch": "皮的部分 --> 溫水麵。麵粉和水的比例約 1 : 0.4。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Fish Dumpling",
+            "ch": "魚餃子"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "sierra mackerel",
+                    "ch": "馬加魚"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "fish",
+                    "ch": "條"
+                }
+            },
+            {
+                "name": {
+                    "en": "lean ground pork",
+                    "ch": "瘦豬絞肉"
+                },
+                "measurement": 0.25,
+                "unit": {
+                    "en": "lb",
+                    "ch": "磅"
+                }
+            },
+            {
+                "name": {
+                    "en": "fat ground pork",
+                    "ch": "肥豬絞肉"
+                },
+                "measurement": 0.25,
+                "unit": {
+                    "en": "lb",
+                    "ch": "磅"
+                }
+            },
+            {
+                "name": {
+                    "en": "chive",
+                    "ch": "韭菜"
+                },
+                "measurement": 0.33,
+                "unit": {
+                    "en": "bunch",
+                    "ch": "把"
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "white pepper powder",
+                    "ch": "白胡椒粉"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy sauce",
+                    "ch": "醬油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil",
+                    "ch": "麻油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "veg/olive oil",
+                    "ch": "橄欖油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "water",
+                    "ch": "水"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Mince the ginger. Set aside.",
+                "ch": "薑剁碎，或是弄成薑末更好。備用"
+            },
+            {
+                "en": "Cut out any bad parts of the chive and wash it, especially the tip of the chive, which usually got some dust in it. Let it dry up, then dice and set aside.",
+                "ch": "韭菜根切掉一點，其餘切丁備用。"
+            },
+            {
+                "en": "For the fish: use a sharp knife (asian big knife) to cut the fish in half from the center of the back the fish.",
+                "ch": "魚: 用把利的刀，從魚背中間切下去。變成兩片。"
+            },
+            {
+                "en": "Cut along the main fish bones. If you do it right, only one of the two pieces should have the main fish bone.",
+                "ch": "沿著魚骨切，所以應該只有一片魚有大骨!"
+            },
+            {
+                "en": "Using the knife, scrape the piece of the fish that's without bones. Hold the knife with one hand and scrape outward, while using the other hand to pull the fish skin. After scraping off the fish meat, touch it with your hand to feel and remove any fish bones.",
+                "ch": "用菜刀刮沒魚骨的那片，一隻手拿菜刀往外刮，一隻手拉著魚皮。刮下來的魚肉用手摸摸，把任何魚刺拔掉。"
+            },
+            {
+                "en": "For the other piece with the main bone, cut down the bone from the back of the fish. Then, scrape off the fish meat the same way as preivous step.",
+                "ch": "有魚骨的那片:一樣從魚背把魚骨切掉，然後像剛剛一樣刮魚肉。"
+            },
+            {
+                "en": "Cut off the entire fish head. Save it to cook the fish broth along with the fish skin later.",
+                "ch": "魚頭整個切掉，跟魚皮等等一起煮湯。(魚湯記得放薑和米酒去腥調味。)"
+            },
+            {
+                "en": "For the scraped fish, touch it with your hand to feel and remove any fish bones.",
+                "ch": "魚肉刮好了，摸摸，拔掉漏掉的魚刺。"
+            },
+            {
+                "en": "Chop the fish meat into a paste using the knife.",
+                "ch": "用菜刀剁魚肉，剁成泥。"
+            },
+            {
+                "en": "Mix the ground pork into the fish paste and continue chop and mix them.",
+                "ch": "加入豬腳肉，一起繼續剁&混勻。"
+            },
+            {
+                "en": "Note: if the fish meat seems to be easily stick onto the knife, that means it is fresh :)",
+                "ch": "魚肉要是容易黏在菜刀上，代表新鮮。"
+            },
+            {
+                "en": "Add water little at a time into the meat.",
+                "ch": "邊剁邊加入適當的水。"
+            },
+            {
+                "en": "Transfer the meat into a bowl for mixing dumpling filling. Add more water as needed until smooth.",
+                "ch": "差不多了就換到盆子裡攪拌，打水。"
+            },
+            {
+                "en": "Note: While mixing the ingredients, make sure to mix in one direction -- either clockwise or counter-clockwise but not both.",
+                "ch": "攪拌只能一個方向。"
+            },
+            {
+                "en": "Add a little soy sauce, and relatively more oil and sesame oil into the bowl. Mix well.",
+                "ch": "加多一點油&麻油，少一點醬油。"
+            },
+            {
+                "en": "Add white pepper powder, minced ginger. Optionally, a little salt depending how much soy sauce was added earlier.",
+                "ch": "加入白胡椒粉，薑末，也可以加點鹽"
+            },
+            {
+                "en": "Lastly, add chive. Don't mix chives in previous steps to avoid them getting mashed up.",
+                "ch": "最後在加韭菜，免得攪爛。"
+            },
+            {
+                "en": "Optionally, you can pick out the white, string-like fish tendon. That's it for the filling part!",
+                "ch": "拌的時候，看到白色條狀的魚筋可挑出來。"
+            },
+            {
+                "en": "For dumpling wrapper: the ratio of cold water and flour is roughly 0.4 to 1.",
+                "ch": "餃子皮冷水麵的比例是 -- 冷水:麵粉 = 0.4:1。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Steamed Squash Dumpling",
+            "ch": "瓜瓜蒸餃"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "chayote squash",
+                    "ch": "瓜瓜"
+                },
+                "measurement": 3,
+                "unit": {
+                    "en": "squash",
+                    "ch": "顆"
+                }
+            },
+            {
+                "name": {
+                    "en": "ground pork or diced pork",
+                    "ch": "絞肉或是豬肉切丁"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "lb",
+                    "ch": "磅"
+                }
+            },
+            {
+                "name": {
+                    "en": "glass noodles",
+                    "ch": "粉絲"
+                },
+                "measurement": 2,
+                "unit": {
+                    "en": "bunch",
+                    "ch": "把"
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shiitake",
+                    "ch": "乾香菇"
+                },
+                "measurement": 8,
+                "unit": {
+                    "en": "shittake",
+                    "ch": "朵"
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shrimp",
+                    "ch": "蝦米"
+                },
+                "measurement": 15,
+                "unit": {
+                    "en": "shrimp (roughly a small bunch)",
+                    "ch": "粒 (大約一小把)"
+                }
+            },
+            {
+                "name": {
+                    "en": "green onion",
+                    "ch": "蔥"
+                },
+                "measurement": 2,
+                "unit": {
+                    "en": "sticks",
+                    "ch": "根"
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 5,
+                "unit": {
+                    "en": "slices",
+                    "ch": "片"
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil",
+                    "ch": "麻油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy sauce",
+                    "ch": "醬油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "veg/olive oil",
+                    "ch": "橄欖油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "water",
+                    "ch": "水"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Marinate the meat (ground or diced) with soy sauce.",
+                "ch": "絞肉或是豬肉切丁，加醬油醃醃。"
+            },
+            {
+                "en": "Soak the shittake and dried shrimp into hot water separately. They don't need too much water, just enough to submerge the ingredients. Soak glass noodles in cold water.",
+                "ch": "用熱水泡香菇跟蝦米，水不用太多。用冷水泡粉絲。"
+            },
+            {
+                "en": "Skin the chayote squashes and remove the seeds. Dice the squashes to roughly ~6x6mm cubes. Be careful as the squash may be slimy.",
+                "ch": "瓜瓜削皮，去籽，切丁。小心會黏。"
+            },
+            {
+                "en": "Add salt to the diced squash to let them sit while the salt do the work to draw out water from the squashes.",
+                "ch": "瓜瓜加鹽，讓他出水。"
+            },
+            {
+                "en": "Dice the shittake to cube of size slightly smaller than that of the squashes.",
+                "ch": "切香菇丁。丁的大小約略小於瓜瓜丁。"
+            },
+            {
+                "en": "Cut the dried shrimp. Each little shrimp may be cut into three or four pieces, roughly.",
+                "ch": "切蝦米，大約每顆蝦米可以切兩三刀。"
+            },
+            {
+                "en": "Cut the glass noodles into short segments.",
+                "ch": "切粉絲，不用留太長。"
+            },
+            {
+                "en": "In a bowl, mix in diced shittake, shrimp, marinated pork(diced or ground). Add oil and/or sesame oil for flavor.",
+                "ch": "餡料鍋混入香菇，蝦米，肉丁(或是絞肉)，看情況加油或是麻油潤滑。"
+            },
+            {
+                "en": "Put the diced squashes into a cloth and squeeze out excess juice. Then mix them into the bowl.",
+                "ch": "瓜瓜擠水，也混入鍋中。"
+            },
+            {
+                "en": "Mix in glass noodles.",
+                "ch": "混入粉絲。"
+            },
+            {
+                "en": "Lastly, flavor with salt, soy sauce, and sesame oil.",
+                "ch": "最後用鹽，醬油，麻油調味。"
+            },
+            {
+                "en": "Wrapper: steamed dumpling requires warm to hot water for dough. The ratio of flour to water is roughly 2 to 1. (Very possbily less water than this...)",
+                "ch": "蒸餃皮用燙麵 (溫水麵)。麵粉比水約2比1。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Raddish Dumpling",
+            "ch": "蘿蔔絲餃"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "asian raddish",
+                    "ch": "白蘿蔔"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "ground pork",
+                    "ch": "絞肉"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "lb",
+                    "ch": "磅"
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shrimp",
+                    "ch": "蝦米"
+                },
+                "measurement": 15,
+                "unit": {
+                    "en": "shrimp (roughly a small bunch)",
+                    "ch": "粒 (大約一小把)"
+                }
+            },
+            {
+                "name": {
+                    "en": "green onion",
+                    "ch": "蔥"
+                },
+                "measurement": 2,
+                "unit": {
+                    "en": "sticks",
+                    "ch": "根"
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 5,
+                "unit": {
+                    "en": "slices",
+                    "ch": "片"
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil",
+                    "ch": "麻油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "veg/olive oil",
+                    "ch": "橄欖油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "water",
+                    "ch": "水"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Stir in water into ground pork in a bowl. Doesn't need to add to much water as you would typically with other type of pork dumplings, as Asian raddish will have some water content later.",
+                "ch": "絞肉打水，不用太多水，因為蘿蔔本身有水分。"
+            },
+            {
+                "en": "Mince the ginger and dice the green onions. Soak the dried shrimp in hot water and dice them after soften. Mix all of the above into the pork bowl and add soy sauce and oil for flavor.",
+                "ch": "加蔥薑，蝦米(要分泡熱水跟切丁)，醬油，油。"
+            },
+            {
+                "en": "After removing the skin of the Asian raddish, shred and place them into boiling water. Let it cook for 2 to 3 minutes until soften.",
+                "ch": "蘿蔔刨絲，然後用滾水煮2~2分鐘煮軟。"
+            },
+            {
+                "en": "Take out the boiled raddish and cool them in cold water. Once it is cool enough to handle, place it in thin cloth and squeez out excessive juice.",
+                "ch": "蘿蔔絲泡冷水，稍涼之後用絲布擠水，不用擠非常乾。"
+            },
+            {
+                "en": "Add the raddish into the pork bowl and mix well.",
+                "ch": "蘿蔔絲加入絞肉，拌勻。"
+            },
+            {
+                "en": "Add oil and sesame oil as appropreiate.",
+                "ch": "適當加入油或是麻油調味。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Cabbage and Pork Dumpling",
+            "ch": "豬肉白菜餃"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "ground pork",
+                    "ch": "絞肉"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "cabbage",
+                    "ch": "白菜"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shrimp",
+                    "ch": "蝦米"
+                },
+                "measurement": 15,
+                "unit": {
+                    "en": "shrimp (roughly a small bunch)",
+                    "ch": "粒 (大約一小把)"
+                }
+            },
+            {
+                "name": {
+                    "en": "green onion",
+                    "ch": "蔥"
+                },
+                "measurement": 2,
+                "unit": {
+                    "en": "sticks",
+                    "ch": "根"
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 5,
+                "unit": {
+                    "en": "slices",
+                    "ch": "片"
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil",
+                    "ch": "麻油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy sauce",
+                    "ch": "醬油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "veg/olive oil",
+                    "ch": "橄欖油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "cilantro (optional)",
+                    "ch": "香菜 (可不用)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "water",
+                    "ch": "水"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Soak and wash the dried shrimp in hot water. Once soften, remove their tiny legs and cut them in smaller dice.",
+                "ch": "蝦米熱水泡軟，去腳腳，軟後切丁。"
+            },
+            {
+                "en": "Wash and dice the cabbage. Add salt and let it sit for ~30 minutes to draw out water. Afterwards, put the diced cabbage in a thin cloth and squeeze out excessive juice.",
+                "ch": "白菜切丁，加鹽，放著約三十分鐘讓他出水。出水後，擠水。"
+            },
+            {
+                "en": "In a bowl, mix a little water into the ground pork as approprieate. Subsequently add in diced green onions, minced ginger, oil, soy sauce, dried shrimp. Mix well.",
+                "ch": "絞肉看情況可以打水。然後加蔥薑，油，醬油，蝦米。拌勻。"
+            },
+            {
+                "en": "Mix in the diced cabbage into the bowl.",
+                "ch": "加白菜。"
+            },
+            {
+                "en": "Optionally, add in chopped cilantro for additional flavor.",
+                "ch": "喜歡的話也可以加香菜。"
+            },
+            {
+                "en": "Lastly, add sesame oil.",
+                "ch": "最後再加麻油調味。"
+            },
+            {
+                "en": "For the wrapper: the ratio of cold water to flour is roughly 0.4 to 1.",
+                "ch": "餃子皮是冷水麵。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Wonton",
+            "ch": "餛飩"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "ground pork",
+                    "ch": "絞肉"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "shrimp (optional)",
+                    "ch": "蝦仁 (可不用)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "green onion",
+                    "ch": "蔥"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil",
+                    "ch": "麻油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy sauce",
+                    "ch": "醬油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "veg/olive oil",
+                    "ch": "橄欖油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "cilantro (optional)",
+                    "ch": "香菜 (可不用)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "wonton wrapper",
+                    "ch": "餛飩皮"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "In a bowl, mix a little water into the ground pork as approprieate.",
+                "ch": "絞肉打水。"
+            },
+            {
+                "en": "Shell the fresh shrimp. Chop them into smaller chunks.",
+                "ch": "鮮蝦去殼，切成小塊。"
+            },
+            {
+                "en": "Add diced green onions, minced ginger, oil, soy sauce, and shrimp into the bowl and mix well. Optionally add chop cilantro. Lastly, add sesame oil for flavor.",
+                "ch": "絞肉加入蔥薑，油，醬油，蝦子，最後再加麻油。"
+            },
+            {
+                "en": "Wonton wrapper: just buy it from store :D",
+                "ch": "皮買現成的就好。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Mama's Fried Rice",
+            "ch": "媽媽牌炒飯"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "rice (preferably previously cooked and fridged)",
+                    "ch": "白飯 (冷飯)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "eggs",
+                    "ch": "蛋"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "pork stripe or shrimp",
+                    "ch": "豬肉絲 或是 蝦仁"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy sauce",
+                    "ch": "醬油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "potato starch",
+                    "ch": "太白粉"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "rice wine",
+                    "ch": "米酒"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "onion",
+                    "ch": "蔥花"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "If your choice of protein is pork: Cut the pork in small short stripes while it is just a little thawed. Put the stripes in a small bowl and marinate them with soy sauce, (potato/tapioca) starch, and rice wine.",
+                "ch": "豬肉的話: 先加入醬油，太白粉，還有米酒醃一醃。"
+            },
+            {
+                "en": "If your choice of protein is shrimp: Shell and clean the shrimp. Pptionally cut them into smaller pieces as desired. Marinate with salt, (potato/tapioca) starch, and rice wine.",
+                "ch": "蝦仁的話: 加入太白粉，米酒，鹽醃一醃。"
+            },
+            {
+                "en": "In a wok, scramble the eggs until ~70% done. Set aside.",
+                "ch": "先炒蛋，盛起來。"
+            },
+            {
+                "en": "In the same wok, stir fry diced green onions and your choice of protein. Set aside.",
+                "ch": "再炒蔥花和肉或是蝦，盛起來。"
+            },
+            {
+                "en": "In the same wok, stir fry the rice. When it's heated up, add back all the cooked ingredients.",
+                "ch": "再來炒飯，盛起來後加回炒好的蛋跟肉或蝦。"
+            },
+            {
+                "en": "Lastly, add salt for flavor.",
+                "ch": "適當的加鹽調味。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Veggie Dumpling",
+            "ch": "素餃子"
+        },
+        "category": "Dumplings",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "spinach or bok choy",
+                    "ch": "菠菜或是青江菜"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shrimp skin",
+                    "ch": "蝦皮"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "dried shiitake",
+                    "ch": "香菇"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "glass noodles",
+                    "ch": "粉絲"
+                },
+                "group": "filling",
+                "measurement": 2,
+                "unit": {
+                    "en": "bunch",
+                    "ch": "把"
+                }
+            },
+            {
+                "name": {
+                    "en": "egg",
+                    "ch": "蛋"
+                },
+                "group": "filling",
+                "measurement": 4,
+                "unit": {
+                    "en": "egg",
+                    "ch": "顆"
+                }
+            },
+            {
+                "name": {
+                    "en": "vegtable oil",
+                    "ch": "油"
+                },
+                "group": "filling",
+                "measurement": 1,
+                "unit": {
+                    "en": "(a lot)",
+                    "ch": "很多"
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil",
+                    "ch": "麻油"
+                },
+                "group": "filling",
+                "measurement": -1,
+                "unit": {
+                    "en": "(a lot)",
+                    "ch": "很多"
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "group": "filling",
+                "measurement": 1,
+                "unit": {
+                    "en": "(just a little)",
+                    "ch": "一點點"
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "water",
+                    "ch": "水"
+                },
+                "group": "wrapper",
+                "measurement": -1,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Soak the shittake into hot water and dice it after soften.",
+                "ch": "香菇泡熱水，軟後切丁。"
+            },
+            {
+                "en": "Wash spinach/bok choy and dried shrimp skin.",
+                "ch": "菠菜或是青江菜洗淨。蝦皮也洗洗。"
+            },
+            {
+                "en": "Heat up the wok and add oil. Separately, stir fry eggs, shrimp skin, diced shittake.",
+                "ch": "炒鍋加油，依序分別炒蛋，炒蝦皮，再炒香菇丁。鍋子先不用洗。"
+            },
+            {
+                "en": "In the same wok, add water to boil. Blanch spinach/bok choy until soften. Squeeze out excess water.",
+                "ch": "鍋子加水燙青菜，軟後撈出，擠水，關火。"
+            },
+            {
+                "en": "Turn off the stove heat. Soak glass noodles in the remaining boiled wok water until soften. Cut them to segments.",
+                "ch": "一樣的鍋子和鍋水，丟入粉絲，軟後取出，切小段。(用餘溫即可)。"
+            },
+            {
+                "en": "Chop spinach/bok choy into segments.",
+                "ch": "擠好水的青菜切成小段。"
+            },
+            {
+                "en": "Mix all ingredients and add salt and sesame oil for flavor.",
+                "ch": "料通通加在一起，加鹽和麻油調味。"
+            },
+            {
+                "en": "For the wrapper: the ratio of cold water to flour is roughly 0.4 to 1.",
+                "ch": "餃子皮冷水麵的比例是 -- 冷水:麵粉 = 0.4:1。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Noodle Soup (Kiai Tang Mien)",
+            "ch": "開湯麵"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "noodles",
+                    "ch": "小拉麵"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "oil",
+                    "ch": "油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy sauce",
+                    "ch": "醬油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "green onions",
+                    "ch": "蔥花"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "green beans",
+                    "ch": "四季豆"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "wood ear mushroom",
+                    "ch": "木耳"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "clams",
+                    "ch": "蚌殼"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "oyster",
+                    "ch": "蚵仔"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "squid",
+                    "ch": "花枝"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "eggs",
+                    "ch": "蛋"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Prepare clams a day in advance. Get them fresh and alive from asian market, and put them in a bowl of cool water. Give them a day to spit out any sand they might have within.",
+                "ch": "提早備料: 蚌殼提早一晚吐沙。"
+            },
+            {
+                "en": "Rest of the food prep: score the squid (to cross grid pattern?). Dice green onions. Mince ginger. Dice green beans. Cut wood ear into smaller strips/pieces.",
+                "ch": "其餘備料: 花枝記得要切花紋。蔥切成蔥花，薑剁碎，四季豆切丁，木耳切成自己喜歡的大小。"
+            },
+            {
+                "en": "In a stir-fry wok, turn on high heat and add oil. Fry the green onions and ginger until fragrant, then add some soy sauce to the rim of the wok before putting in the green beans. Stir fry for a little, then add in wood ear. If the ingredients look too dry, you can optionally add a little water to help the stir fry process.",
+                "ch": "炒菜鍋加油，炒蔥薑爆鍋。再來鍋邊噴一些醬油然後下四季豆。炒一炒之後加木耳。再炒一炒如果覺得太乾，可以斟酌加約1/3米杯的水。"
+            },
+            {
+                "en": "Once stir fried, transfer the food to a stock pot/dutch oven. Add all the water you'll want for the soup and bring it to boil. Turn to low heat and continue to simmer until the green beans are translucent. Add salt and sample the flavor during this time.",
+                "ch": "炒完之後把炒的料換到湯鍋，加水加到要吃的量，讓它滾，滾開後轉到小火慢慢滾到四季豆變透明。這期間加鹽調味。"
+            },
+            {
+                "en": "If you plan to eat after the soup is done, you can start heating up water in a separate pot for cooking noodles.",
+                "ch": "如果準備要馬上開吃的話，這個時候可以另一個鍋子加水加熱，準備煮麵條。"
+            },
+            {
+                "en": "After the green beans become translucent, add the following in order: clam shells, oysters, and squid. Wait until the clam shells open before adding oysters. Notes: Alternatively, Aunt's recipe is to cook the clams separately to avoid any possible sand from the clams polluting the soup.",
+                "ch": "湯鍋內，四季豆變透明後就可以依序下蚌殼、蚵仔、花枝。花枝燙幾秒就熟了，所以等到蚌殼打開了還有蚵仔也丟下去了再下。備註: 姨媽版是蚌殼另外先煮開，免得有沙子跑進湯麵裡。煮蚌殼的水還可以用來當開湯麵的湯，這樣比較鮮。媽媽版比較懶。"
+            },
+            {
+                "en": "Lastly, beat the eggs in a separate bowl and drizzle it into the soup. (Like how 'egg drop' soup is made). Bring it to boil on high heat and then it's done!",
+                "ch": "蛋花是要等到大滾後最後再加。滾一滾後麵滷完成!"
+            },
+            {
+                "en": "Cook the noodles separately when ready to eat.",
+                "ch": "要吃的時候再另外煮麵。"
+            }
+        ],
+        "notes": [
+            {
+                "en": "I've always thought and call this noodle soup 'Chiang Guo Mien', and thought it is the same as 'Kiai Tang Mien'. But no! Aunt explained that this recipe is for 'Kiai Tang Mien'. As for 'Chiang Guo Mien', here is the recipe. Just slightly different from the other.",
+                "ch": "我一直以為這就是嗆鍋麵，但姨媽解釋後才發現原來這是開湯麵!以下為姨媽口述，記憶中的嗆鍋麵作法:"
+            },
+            {
+                "en": "Chiang Guo Mien: Prepare shreded ginger, shreded green onions, pork stripes, wood ear stripes, shreded cabbage. In a wok, heat up oil, then stir fry green onions, ginger, pork. Then, add in wood ear and cabbage and continue to stir fry. Once done, add water (or transfer everything to a stock pot first) and bring it to boil, then add in noodles and cook until noodles are done.",
+                "ch": "薑絲、蔥絲少許。肉要切絲，還有木耳絲，白菜絲。鍋熱放油，爆炒蔥薑肉絲，再炒木耳絲跟白菜絲。炒好加水煮滾後下麵條。起鍋前打一個蛋花。"
+            },
+            {
+                "en": "Key differences: to make Kiai Tang Mien, we make the soup the first, then cook the noodles separately and only mix them when served in individual bowls. On the other hand, to make Chiang Guo Mien, we make the soup and noodles together in the same pot! In addition, Kiai Tang Mien has green beans, whereas Chiang Guo Mien has cabbage!",
+                "ch": "開湯麵是先煮好麵滷，要吃的時候才分開煮麵。而嗆鍋麵是麵跟麵滷一起煮。開湯麵是四季豆，而嗆鍋麵是白菜絲!"
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Asian Raddish Cold Dish",
+            "ch": "涼拌蘿蔔絲"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "asian raddish",
+                    "ch": "白蘿蔔"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "celery",
+                    "ch": "芹菜"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "mirin (Japanese sweet rice vinegar)",
+                    "ch": "味醂 (萬家香)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "chili pepper (optional)",
+                    "ch": "辣椒 (可不用)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "peanuts (optional)",
+                    "ch": "花生米 (可不用)"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Skin the raddish, then slice into small thin strips. Add salt and let it sit for ~15 minutes to draw out water. Remove excess water.",
+                "ch": "蘿蔔絲切粗條，加鹽擠水。"
+            },
+            {
+                "en": "Cut the celery into smaller strips and wash clean.",
+                "ch": "芹菜撇絲，洗淨切小段晾乾。"
+            },
+            {
+                "en": "Mix the two in a bowl then add mirin. You can sample the flavor as you add mirin to adjust the amount.",
+                "ch": "兩者混在一齊加味霖拌拌就好。可以邊加邊嘗味道。"
+            },
+            {
+                "en": "Optionally, cut chili pepper into small strips and mix in as well. Remove the seeds if you have lower spice tolerance.",
+                "ch": "想吃辣的話就把辣椒切絲加進去，怕辣就把籽去掉。"
+            },
+            {
+                "en": "Let it chill and marinate in fridge. Done!",
+                "ch": "醃一醃，讓他入味就完成!"
+            }
+        ],
+        "notes": [
+            {
+                "en": "",
+                "ch": ""
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Fried Sauce Noodles",
+            "ch": "炸醬麵"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "noodles",
+                    "ch": "麵條"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "green onion",
+                    "ch": "蔥"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "ginger",
+                    "ch": "薑"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "cucumber",
+                    "ch": "小黃瓜"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "ground pork (80% lean) or diced pork",
+                    "ch": "豬絞肉(80%瘦)或是豬肉丁"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "soy bean paste",
+                    "ch": "豆瓣醬"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "sweet bean sauce",
+                    "ch": "甜麵醬"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "oil",
+                    "ch": "油"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Preparation: mince green onions and ginger. Dice cucmerber into small cubes.",
+                "ch": "備料: 蔥薑切末。小黃瓜切丁。"
+            },
+            {
+                "en": "In a wok, heat up a lot of oil. Once oil is hot, add in sweet bean sauce and soy bean paste. Stir quickly to let them fry. Be careful, oil might splash.",
+                "ch": "炒鍋熱油，油要稍微多一點。油熱之後下豆瓣醬跟甜麵醬，用鍋鏟快速翻炒，讓熱油炸醬。小心被油燙到。"
+            },
+            {
+                "en": "Then, add in green onion, ginger, and pork. Stir quickly as well. Aunt's version will add some soy sauce here at this step.",
+                "ch": "然後再放蔥薑末跟豬肉，快速翻動。姨媽版會放一點點醬油。"
+            },
+            {
+                "en": "Add in diced cucumber and mix well. Lastly, add water so there is enough sauce for the noodles. Mix well, put on the lid and let it simmer for a little. Done!",
+                "ch": "放小黃瓜，拌勻。然後加水。加水的目的是讓炸醬更有汁拌麵。加水後翻一翻，蓋上鍋蓋悶一悶就完成。"
+            },
+            {
+                "en": "Only cook noodles when it's time to eat.",
+                "ch": "想吃的時候再另外煮麵條。"
+            }
+        ],
+        "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Garlic Cucumber Cold Dish",
+            "ch": "拍黃瓜"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "cucumber",
+                    "ch": "小黃瓜"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "garlic",
+                    "ch": "大蒜"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "vinegar",
+                    "ch": "白醋"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "granular sugar",
+                    "ch": "白糖"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": 0,
+                "unit": {
+                    "en": "",
+                    "ch": ""
+                }
+            },
+            {
+                "name": {
+                    "en": "sesame oil (optional)",
+                    "ch": "麻油 (可不用)"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "a few drops",
+                    "ch": "幾滴即可"
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Wash cucumber and remove the ends. Cut into long segments. (a single cucumber can be cut into 3~4 segments). Then, use the side of a butcher asian knife and smash the cucumber. Don't smash too hard, just until it is smashed open.",
+                "ch": "小黃瓜洗乾淨去頭去尾，切長段，然後用刀背拍一拍，不要拍太用力會太碎。"
+            },
+            {
+                "en": "In a bowl, put in cucumber and marinate with a little sugar. Let it sit for about 10~20 minutes to draw out the water. Then, lightly squeeze and pour out excess water.",
+                "ch": "拍過的小黃瓜用點糖醃醃，大概10~20分鐘吧，讓他出水。之後，用水稍稍擠壓，把水倒掉。"
+            },
+            {
+                "en": "Add salt, vinegar, minced garlic. Mix well. Optionally you can add more sugar if you like it more sweet. Or, chili pepper (remove seeds) if you like it more spicy.",
+                "ch": "(媽媽)都是用糖醃後，才用鹽去調味。擠完水後，就加鹽、白醋、大蒜(大蒜要剁碎)。和在一起，喜歡甜味可以再加些糖，自己嚐嚐調整味道，也可以切點辣椒，顏色好看，但要把辣椒籽去掉，免得太辣!"
+            },
+            {
+                "en": "After mixing everything (you can close the lid and shake the container to mix too), put it into the fridge. Let the flavor soak in before you eat them!",
+                "ch": "拌好之後放進冰箱，就等著吃了!醃越久越有味道唷!祝你成功!"
+            }
+        ],
+        "notes": [
+            {
+                "en": "Mama said she doesn't usually add sesame oil, because the dish tend to go bad with sesame oil if leave for more than one day. So, if you anticapate consuming the dish in a day, then feel free to add a few drops of sesame oil for more flavor.",
+                "ch": "媽媽說他不太放麻油，怕容易壞。但如果一餐就可以吃完，滴點麻油是可以增香的，但不能多。"
+            }
+        ]
+    },
+    {
+        "name": {
+            "en": "Egg Tarts",
+            "ch": "蛋塔"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "unsalted butter (margarine)",
+                    "ch": "無鹽奶油"
+                },
+                "measurement": 4,
+                "unit": {
+                    "en": "oz",
+                    "ch": "盎司"
+                }
+            },
+            {
+                "name": {
+                    "en": "cheese cream",
+                    "ch": "乳酪"
+                },
+                "measurement": 2.66,
+                "unit": {
+                    "en": "oz",
+                    "ch": "盎司"
+                }
+            },
+            {
+                "name": {
+                    "en": "flour",
+                    "ch": "麵粉"
+                },
+                "measurement": 1.5,
+                "unit": {
+                    "en": "cup",
+                    "ch": "杯"
+                }
+            },
+            {
+                "name": {
+                    "en": "eggs",
+                    "ch": "蛋"
+                },
+                "measurement": 3,
+                "unit": {
+                    "en": "eggs",
+                    "ch": "顆"
+                }
+            },
+            {
+                "name": {
+                    "en": "sugar",
+                    "ch": "白糖"
+                },
+                "measurement": 0.25,
+                "unit": {
+                    "en": "cup",
+                    "ch": "杯"
+                }
+            },
+            {
+                "name": {
+                    "en": "milk",
+                    "ch": "牛奶"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "cup",
+                    "ch": "杯"
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "This recipe makes 12 egg tarts. Store bought cream cheese is usually 8 oz, which is triple the portion of this recipe. Sometimes I made 36 egg tarts at a time xD.",
+                "ch": "這個食譜的分量是12顆蛋塔。通常買的乳酪一次是8盎司，是三倍的量。所以有時候我會一口氣做36顆蛋塔，呵呵。"
+            },
+            {
+                "en": "For crust: let butter soften in room temperature. Mix butter, cream cheese first. Then, add in flour. Mix until it become a smooth dough.",
+                "ch": "外殼作法: 奶油事先室溫融化。將奶油和乳酪拌勻，混好後再加入麵粉。混好成麵團。"
+            },
+            {
+                "en": "Preheat the oven to 375°F.",
+                "ch": "烤箱預熱至華氏375度。"
+            },
+            {
+                "en": "For crust: split the dough into equal parts of 12. Oil the cupcake pan, and put each small dough into the pan and shape the crust. I like to use the ends of an asian dough roller to assist the shaping process.",
+                "ch": "外殼: 麵團分成12等分。杯子蛋糕烤盤抹油，在把小麵團們放進烤盤，整型。我自己有時會用擀麵棍的角角幫忙整型。"
+            },
+            {
+                "en": "For filling: mix in eggs, sugar, and milk. Pour them equally into the tart crusts.",
+                "ch": "內餡作法: 蛋，糖，牛奶打勻。均勻倒入外殼們。"
+            },
+            {
+                "en": "Bake for 20 minutes or until filling is solidified (can be verified with a toothpick or chopstick.)",
+                "ch": "放入烤箱烤20分鐘，或是烤到內餡變成固體(可用筷子或牙籤測試)。"
+            }
+        ],
+        "notes": [
+        ]
+    }
+]
