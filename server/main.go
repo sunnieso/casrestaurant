@@ -23,13 +23,12 @@ func main() {
 	// authorized.Static("/static", "./static/")
 	router.Static("/static/", "./static/")
 	router.LoadHTMLGlob("static/*.html")
-	authorized.GET("home", func(ctx *gin.Context) {
-		recipeList, _ := recipe.ListAllRecipes()
+
+	router.GET("", func(ctx *gin.Context) {
 		ctx.HTML(
 			http.StatusOK,
 			"index.html",
 			gin.H{
-				"list":            recipeList,
 				"lastUpdatedTime": currentTime,
 			})
 	})
@@ -46,6 +45,26 @@ func main() {
 		http.SetCookie(ctx.Writer, cookie)
 
 		ctx.JSON(http.StatusAccepted, gin.H{})
+	})
+
+	router.GET("aboutme", func(ctx *gin.Context) {
+		ctx.HTML(
+			http.StatusOK,
+			"aboutme.html",
+			gin.H{
+				"lastUpdatedTime": currentTime,
+			})
+	})
+
+	authorized.GET("recipes", func(ctx *gin.Context) {
+		recipeList, _ := recipe.ListAllRecipes()
+		ctx.HTML(
+			http.StatusOK,
+			"recipe_collection.html",
+			gin.H{
+				"list":            recipeList,
+				"lastUpdatedTime": currentTime,
+			})
 	})
 
 	authorized.GET("recipes/:item", func(ctx *gin.Context) {

@@ -1,6 +1,6 @@
 {
  "name": "CAS Restaurant",
- "start_url": "/home",
+ "start_url": "/recipes",
  "icons": [
   {
    "src": "/android-icon-36x36.png",
