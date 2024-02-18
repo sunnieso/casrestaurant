@@ -1920,5 +1920,96 @@
         ],
         "notes": [
         ]
+    },
+    {
+        "name": {
+            "en": "Drunken Chicken",
+            "ch": "醉雞"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "chicken thigh, leg",
+                    "ch": "土雞腿(大腿+小腿)"
+                },
+                "measurement": 2,
+                "unit": {
+                    "en": "",
+                    "ch": "隻"
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "goji berry",
+                    "ch": "枸己"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "dried red dates",
+                    "ch": "紅棗"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "shaoxing wine",
+                    "ch": "紹興酒"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "dong quai (optional)",
+                    "ch": "當歸片 (可無)"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Remove chicken bone and wash the chicken. Pad dry. Then, use a fork or knife, poke a lot of holes on the chicken to make it easier to absorb the flavors. Add salt, then roll each thigh into a roll and wrap firmly with foil. Alternatively, you can also tie it with rope instead of foil.",
+                "ch": "土雞腿先去骨，用水洗淨乾淨，在瀝乾。表面的水分用叉子或是刀尖，正反兩面都戳很多洞，再抹上鹽巴再捲起來，用鋁箔紙包起來，在鋁箔紙外面戳洞。(也可以不用鋁箔紙，用繩子綁起來)。"
+            },
+            {
+                "en": "Put in the chicken into the rice cooker",
+                "ch": "將綁好的雞放在電鍋裡，放水1/3或是一半，不要淹過雞腿。裡面放紅棗、枸纪、一些當歸片。外鍋放一杯水。壓火。"
+            },
+            {
+                "en": "",
+                "ch": "電鍋跳起來後，拿出來。雞汁千萬不要倒，然後再加上紹興酒。如果要濃一點就多倒一點。基本上不可以超過雞腿的高度。放在外面涼了以後就放倒冰箱裡了。"
+            }
+        ],
+        "notes": [
+        ]
     }
 ]
