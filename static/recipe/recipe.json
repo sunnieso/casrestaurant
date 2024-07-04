@@ -2001,15 +2001,114 @@
                 "ch": "土雞腿先去骨，用水洗淨乾淨，在瀝乾。表面的水分用叉子或是刀尖，正反兩面都戳很多洞，再抹上鹽巴再捲起來，用鋁箔紙包起來，在鋁箔紙外面戳洞。(也可以不用鋁箔紙，用繩子綁起來)。"
             },
             {
-                "en": "Put in the chicken into the rice cooker",
+                "en": "Put in the wrapped chicken into the rice cooker. Water cover up to 1/3 or half of the chicken. Throw in some red dates and goji berries. Pour a cup of water for the outer pot. Cook.",
                 "ch": "將綁好的雞放在電鍋裡，放水1/3或是一半，不要淹過雞腿。裡面放紅棗、枸纪、一些當歸片。外鍋放一杯水。壓火。"
             },
             {
-                "en": "",
+                "en": "Once cooker is done, take out the chicken. Don't dump away the chicken juice! Instead, add in some cooking wine. If you like more taste of the alcohol, then add more, but don't submerge the chicken entirely. Once cooled, put the whole thing in the fridge. Served when cooled.",
                 "ch": "電鍋跳起來後，拿出來。雞汁千萬不要倒，然後再加上紹興酒。如果要濃一點就多倒一點。基本上不可以超過雞腿的高度。放在外面涼了以後就放倒冰箱裡了。"
             }
         ],
         "notes": [
+        ]
+    },
+    {
+        "name": {
+            "en": "Simple Chicken Soup",
+            "ch": "超簡易雞湯"
+        },
+        "category": "",
+        "ingredients": [
+            {
+                "name": {
+                    "en": "chicken legs (but really, any part of chicken is fine)",
+                    "ch": "雞腿肉"
+                },
+                "measurement": 2,
+                "unit": {
+                    "en": "",
+                    "ch": "隻"
+                }
+            },
+            {
+                "name": {
+                    "en": "salt",
+                    "ch": "鹽"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "goji berry",
+                    "ch": "枸己"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "dried red dates",
+                    "ch": "紅棗"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "sliced ginger",
+                    "ch": "薑片"
+                },
+                "measurement": -1,
+                "unit": {
+                    "en": "for flavor",
+                    "ch": "適量"
+                }
+            },
+            {
+                "name": {
+                    "en": "green onion",
+                    "ch": "蔥"
+                },
+                "measurement": 1,
+                "unit": {
+                    "en": "stick",
+                    "ch": "根"
+                }
+            }
+        ],
+        "steps": [
+            {
+                "en": "Wash and cut the green onion in segments.",
+                "ch": "蔥切段。"
+            },
+            {
+                "en": "In rice cooker, throw in all ingredients and submerge them with water. Add 2 cups of water for the outer pot. Cook",
+                "ch": "所有食材丟進電鍋，加水過頂。外鍋可以斟酌加兩杯水。壓火。"
+            },
+            {
+                "en": "Done. It can't be easier, right?",
+                "ch": "電鍋跳了之後就好啦~不能再更簡單了吧?"
+            }
+        ],
+        "notes": [
+            {
+                "en": "Optionally, you can have a different flavor of chicken soup, by replacing dates and goji berries with mushroom. dates and goji gives a sweeter taster, whereas mushroom give an umami flavor. However, don't mix them! I don't like it.",
+                "ch": "可以用香菇替換紅棗&枸己，換換口味。"
+            },
+            {
+                "en": "This recipe is super simple and isn't anything special. It's here mainly for my non-asian family and friends to cook for us asian souls on demand.",
+                "ch": "這個食譜實在是簡單，不算是家族食譜。陳列在此是為了不是亞洲人的親朋好友作我的家鄉菜給我吃:D"
+            }
         ]
     }
 ]
