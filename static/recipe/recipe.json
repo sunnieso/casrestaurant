@@ -2021,7 +2021,7 @@
         "ingredients": [
             {
                 "name": {
-                    "en": "chicken legs (but really, any part of chicken is fine)",
+                    "en": "chicken legs",
                     "ch": "雞腿肉"
                 },
                 "measurement": 2,
@@ -2101,6 +2101,10 @@
             }
         ],
         "notes": [
+            {
+                "en": "The recipe said chicken leg, but really, any part of the chicken is fine in my opinion.",
+                "ch": "其實不是雞腿，其他部位的雞也是可以的。"
+            },
             {
                 "en": "Optionally, you can have a different flavor of chicken soup, by replacing dates and goji berries with mushroom. dates and goji gives a sweeter taster, whereas mushroom give an umami flavor. However, don't mix them! I don't like it.",
                 "ch": "可以用香菇替換紅棗&枸己，換換口味。"
