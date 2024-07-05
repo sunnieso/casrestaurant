@@ -2,7 +2,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Parse query parameters from URL
     const urlParams = new URLSearchParams(window.location.search);
     const recipeName = urlParams.get('item');
-    const title = document.getElementById('title')
     
     const lang = document.getElementById('lang')
 
@@ -34,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function() {
       ingredientsBar.innerText = "Ingredients"
       stepsTitleBar.innerText = "Steps"
       notesTitleBar.innerText = "Notes"
-      title.innerText = `${recipeName} Recipe`
+      document.title = `${recipeName} Recipe`
     }
 
     const ingredientsList = document.getElementById('ingredients-li')
@@ -51,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // title
             if (lang.value == "ch") {
               recipeTitleDiv.textContent = `${item.name.ch} 食譜`
-              title.innerText = `${item.name.ch} 食譜`
+              document.title = `${item.name.ch}食譜`
             }
 
             // ingredients
